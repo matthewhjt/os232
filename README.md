@@ -1,2 +1,2 @@
 # os232
-Repo for OS Class
+Hai, aku Matthew. Ini repo untuk kelas OS.
