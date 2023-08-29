@@ -1,1 +1,8 @@
+# Ini log kegiatan OS
 
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# Log Codes: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 20 L03 GitHub setup
+ZCZC W00 100 L02 First class meeting, intro stuff
