@@ -4,5 +4,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # Log Codes: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 20 L03 GitHub setup
-ZCZC W00 100 L02 First class meeting, intro stuff
+ZCZC W00 20 L03 GitHub setup, Assignment #00 - #03
+ZCZC W00 200 L02 First week class meeting
+ZCZC W00 1 L14 Course Registration
+ZCZC W00 60 L15 Reading assignment
+ZCZC W00 60 L05 Quiz 10 minutes + studying 50 minute-ish
+ZCZC W00 1 L16 Assignment #6 - this log.
