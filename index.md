@@ -1,3 +1,3 @@
 # OS232
 
-|| [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [Github](https://github.com/steven-fo/os232.git) ||
+|| [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [Github](https://github.com/matthewhjt/os232.git) ||
