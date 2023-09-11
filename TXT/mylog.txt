@@ -13,4 +13,6 @@ ZCZC W00 1 L16 Assignment #6 - this log.
 ZCZC W01 180 L11 Assignment #1 - Virtual Box and Debian Setup
 ZCZC W01 60 L12 Assignment #2 - Reading Book and Watching YT Videos
 ZCZC W01 10 L13 Assignment #3 - Creating LINKS at Github
-ZCZC W01 14 L14 Assignment #4 - Adding myupdate.txt
+ZCZC W01 1 L14 Assignment #4 - Adding myupdate.txt
+ZCZC W01 200 L02 CLASSROOM/ZOOM meeting related - 2 x 100 minutes of offline class
+ZCZC W01 60 L05 Quiz related including studying
