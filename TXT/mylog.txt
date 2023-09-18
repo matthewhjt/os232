@@ -16,3 +16,12 @@ ZCZC W01 10 L13 Assignment #3 - Creating LINKS at Github
 ZCZC W01 1 L14 Assignment #4 - Adding myupdate.txt
 ZCZC W01 200 L02 CLASSROOM/ZOOM meeting related - 2 x 100 minutes of offline class
 ZCZC W01 60 L05 Quiz related including studying
+ZCZC W02 200 L02 CLASSROOM/ZOOM meeting related - 2 x 100 minutes of offline class
+ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 20 L07 Demo Related - Tested some Demos (c lang)
+ZCZC W02 60 L11 Assignment #1 - Readings, Watchings, Demos
+ZCZC W02 30 L12 Assignment #2 - GPG Setup
+ZCZC W02 10 L13 Assignment #3 - Update LINKS
+ZCZC W02 10 L14 Assignment #4 - Added myrank.txt
+ZCZC W02 60 L15 Assignment #5 - Script Download
+ZCZC W02 5 L16 Assignment #6 - Updating myupdate.txt and mylog.txt
