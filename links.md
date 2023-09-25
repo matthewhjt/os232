@@ -9,3 +9,4 @@ permalink: LINKS/
 
 * [Linux Crash Course - The grep Command](https://youtu.be/Tc_jntovCM0) --- A video from Learn Linux TV about grep.
 
+* [How to Remove Linux Directory](https://phoenixnap.com/kb/remove-directory-linux) --- Helped me to do Pop Quiz 3 (making tarball).
