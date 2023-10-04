@@ -10,3 +10,7 @@ permalink: LINKS/
 * [Linux Crash Course - The grep Command](https://youtu.be/Tc_jntovCM0) --- A video from Learn Linux TV about grep.
 
 * [How to Remove Linux Directory](https://phoenixnap.com/kb/remove-directory-linux) --- Helped me to do Pop Quiz 3 (making tarball).
+
+* [How to Copy Files in Linux](https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux) --- Helped me to do Pop Quizes
+
+* [How to Use SCP from Windows to Linux](https://linuxhint.com/scp-windows-linux/) --- A tutorial on how to copy/share files from local Windows to Linux localhost. Helped me to do Pop Quizes too.
