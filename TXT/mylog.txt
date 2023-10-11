@@ -36,3 +36,10 @@ ZCZC W04 60 L11 Assignment #1 - Readings and Demos
 ZCZC W04 20 L12 Assginemnt #2 - Compiling The Linux Programming Interface (TLPI)
 ZCZC W04 20 L05 Quiz related (Pop Quiz)
 ZCZC W04 5 L14 Assignment #4 - Finishing (mylog, myupdate, links)
+ZCZC W05 60 L11 Assignment #1 - Readings, Watchings, Demos
+ZCZC W05 20 L12 Assignment #2 - How Low (Memory) Can You Go?
+ZCZC W05 20 L13 Assignment #3 - Scripts
+ZCZC W05 30 L14 Assignment #4 - Memory
+ZCZC W05 20 L15 Assignment #5 - Finishing (logs, myupdate, myrank, links)
+ZCZC W05 200 L02 CLASSROOM/ZOOM meeting related - 2 x 100 minutes of offline class
+ZCZC W05 60 L05 Quiz related including studying and Pop Quiz

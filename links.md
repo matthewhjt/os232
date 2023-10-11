@@ -14,3 +14,5 @@ permalink: LINKS/
 * [How to Copy Files in Linux](https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux) --- Helped me to do Pop Quizes
 
 * [How to Use SCP from Windows to Linux](https://linuxhint.com/scp-windows-linux/) --- A tutorial on how to copy/share files from local Windows to Linux localhost. Helped me to do Pop Quizes too.
+
+* [GPG encryption guide part 1](https://tutonics.com/articles/gpg-encryption-guide-part-1/) --- A guide on encryption
