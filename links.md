@@ -16,3 +16,5 @@ permalink: LINKS/
 * [How to Use SCP from Windows to Linux](https://linuxhint.com/scp-windows-linux/) --- A tutorial on how to copy/share files from local Windows to Linux localhost. Helped me to do Pop Quizes too.
 
 * [GPG encryption guide part 1](https://tutonics.com/articles/gpg-encryption-guide-part-1/) --- A guide on encryption
+
+* [Image Editor Online](https://www.imgonline.com.ua/eng/determine-jpeg-quality.php) --- A website to check image quality. Helpful for Pop Quiz.
