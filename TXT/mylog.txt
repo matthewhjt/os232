@@ -49,3 +49,9 @@ ZCZC W06 20 L13 Assignment #3 - Fork() and Shared Memory
 ZCZC W06 20 L14 Assignment #4 - Finishing (logs, myupdate, myrank, links)
 ZCZC W06 200 L02 CLASSROOM/ZOOM meeting related - 2 x 100 minutes of offline class
 ZCZC W06 60 L05 Quiz related including studying and Pop Quiz
+ZCZC W07 200 L02 CLASSROOM/ZOOM meeting related - 2 x 100 minutes of offline class
+ZCZC W07 60 L05 Quiz related including studying and Pop Quiz
+ZCZC W07 60 L11 Assignment #1 - Readings, Demos
+ZCZC W07 10 L12 Assignment #2 - Scripts
+ZCZC W07 40 L13 Assignment #3 - Synchronization
+ZCZC W07 20 L14 Assignment #4 - Finishing (logs, myupdate, myrank, links)

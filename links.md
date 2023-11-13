@@ -18,3 +18,5 @@ permalink: LINKS/
 * [GPG encryption guide part 1](https://tutonics.com/articles/gpg-encryption-guide-part-1/) --- A guide on encryption
 
 * [Image Editor Online](https://www.imgonline.com.ua/eng/determine-jpeg-quality.php) --- A website to check image quality. Helpful for Pop Quiz.
+
+* [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM&pp=ygUOZmlsZSBzeXN0ZW0gb3M%3D) --- A video about File Systems
