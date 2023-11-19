@@ -20,3 +20,7 @@ permalink: LINKS/
 * [Image Editor Online](https://www.imgonline.com.ua/eng/determine-jpeg-quality.php) --- A website to check image quality. Helpful for Pop Quiz.
 
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM&pp=ygUOZmlsZSBzeXN0ZW0gb3M%3D) --- A video about File Systems
+
+* [LFS 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A youtube playlist about building Linux From Scratch
+
+* [LFS 11.1](https://www.linuxfromscratch.org/lfs/view/11.1/index.html) --- A website tutorial on how to build Linux From Scratch 11.1
